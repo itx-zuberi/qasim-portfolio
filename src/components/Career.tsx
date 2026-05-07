@@ -68,7 +68,7 @@ const Career = () => {
                 <h4>BS Computer Science</h4>
                 <h5>KICSIT &mdash; IST Islamabad</h5>
               </div>
-              <h3>2021&ndash;25</h3>
+              <h3>2022&ndash;26</h3>
             </div>
             <p>
               Coursework in Artificial Intelligence, Machine Learning, Data
